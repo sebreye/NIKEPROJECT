@@ -1,3 +1,48 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face{
+    font-family: 'wave';
+    src: url("../Wave-5axZ.ttf");
+}
+@font-face{
+    font-family: "sugar";
+    src: url("../SugarpeachydemoBlack-PKaEg.otf");
+}
+@font-face{
+    font-family: 'molly';
+    src: url('../MollyHugsPersonalUse-x3DAm.otf');
+}
+@font-face {
+    font-family: "Nike";
+    src: url("../Futura\ Std\ Extra\ Bold.ttf");
+}
+body{
+    font-family: 'Nike';
+    font-weight: bold;
+}
+.laylow{
+    font-family: 'molly';
+    font-size: xxx-large;
+    position: relative;
+    top: -450px;
+    text-align: center;
+    color: white;
+}
+.ts{
+    font-family: 'wave';
+    font-size: xxx-large;
+    position: relative;
+    top: -450px;
+    text-align: center;
+    color: white;
+}
+.ama{
+    font-family: 'sugar';
+    font-size: xxx-large;
+    position: relative;
+    top: -450px;
+    text-align: center;
+    color: white;
+}
