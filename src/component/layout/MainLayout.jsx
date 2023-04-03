@@ -5,9 +5,13 @@ import Header from '../header/Header'
 const MainLayout = ({children}) => {
   return (
     <>
-    <Header/>
-    {children}
-    <Footer/>
+    <div className='flex flex-col justify-between h-screen'>
+      <div >
+        <Header/>
+        {children}
+      </div>
+      <div><Footer/></div>
+    </div>
     </>
   )
 }

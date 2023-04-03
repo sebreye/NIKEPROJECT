@@ -5,11 +5,11 @@ const Footer = () => {
     <>
       
 <footer class="bg-black dark:bg-gray-900">
-    <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+    <div class=" p-4">
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
               <a href="https://flowbite.com/" class="flex items-center">
-                  <img src="https://flowbite.com/docs/images/logo.svg" class="h-8 mr-3" alt="FlowBite Logo" />
+                  <img src="https://www.edigitalagency.com.au/wp-content/uploads/Nike-SNKRS-app-logo.png" class="h-8 mr-3" alt="FlowBite Logo" />
                   <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
               </a>
           </div>

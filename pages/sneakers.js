@@ -16,7 +16,7 @@ const sneakers = ({snkrs}) => {
         <div>
         <div className='grid justify-items-center grid-cols-4 ' >
         {snkrs.map(sneaker=>(
-            <div onClick={() =>{b(sneaker)}} style={{width: '350px'}} className='border m-5' >
+            <div onClick={() =>{b(sneaker)}} style={{width: '350px'}} className='border m-5 cursor-pointer' >
             <img src={sneaker.original_picture_url} alt="" width={250} style={{margin: "auto"}} />
             </div>
         ))}
