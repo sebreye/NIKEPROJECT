@@ -45,3 +45,21 @@ body{
     text-align: center;
     color: white;
 }
+
+
+
+
+
+.front{
+    transition: 0.5s ease-in-out;
+   
+}
+.back{transition: 0.5s ease-in-out;}
+.front:hover {
+        transform: translateY(-50px );
+}
+.front:hover .back{
+    transform: translateY(40px);
+}
+
+ 
