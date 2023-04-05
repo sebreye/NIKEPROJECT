@@ -42,7 +42,7 @@ const HomePage = () => {
                 className={`absolute w-full h-full ${
                     index === activeIndex ? 'opacity-100' : 'opacity-0'
                 } duration-1000 ease-in-out`}
-                />
+                 style={{objectFit:'cover'}}/>
             ))}
             </div>
             <button
@@ -78,17 +78,17 @@ const HomePage = () => {
     <div className='grid grid-cols-3 p-5 '  >
       <div className='m-2 cursor-pointer'  >
         < >
-        <img src="https://www.sneakers-actus.fr/wp-content/uploads/2022/05/Nike-Air-Max-1-x-Travis-Scott-Cactus-Jack-Wheat-Lemon-Drop-DO9392-701.jpg" alt="" className='w-full h-full'  />
+        <img src="https://www.sneakers-actus.fr/wp-content/uploads/2022/05/Nike-Air-Max-1-x-Travis-Scott-Cactus-Jack-Wheat-Lemon-Drop-DO9392-701.jpg" alt="" className='w-full h-full' style={{objectFit: 'cover'}}  />
         </>
         
         <h1 className='ts'>NIKE X TRAVIS SCOTT</h1>
       </div>
       <div className='m-2 cursor-pointer'>
-        <img src="https://footwearnews.com/wp-content/uploads/2021/11/a-ma-maniere-air-jordan-1-5.jpg?w=1024" alt="" className='w-full h-full'/>
+        <img src="https://footwearnews.com/wp-content/uploads/2021/11/a-ma-maniere-air-jordan-1-5.jpg?w=1024" alt="" className='w-full h-full' style={{objectFit: 'cover'}}/>
         <h1 className='ama'>NIKE X A MA MANIERE </h1>
       </div>
       <div className='m-2 cursor-pointer'>
-        <img src="https://pbs.twimg.com/media/E33OiOqWYAAfe-n.jpg" alt="" className='w-full h-full' />
+        <img src="https://pbs.twimg.com/media/E33OiOqWYAAfe-n.jpg" alt="" className='w-full h-full' style={{objectFit: 'cover'}} />
         <h1 className='laylow'>NIKE x LAYLOW</h1>
       </div>
     </div>
@@ -98,15 +98,15 @@ const HomePage = () => {
         <img src="https://media.gqmagazine.fr/photos/63c7d5c64e33405e28ea5fdd/master/pass/NIKE.jpg" alt="" className='w-full h-full'  />
         </>
         
-        <h1 className='ts'>NIKE X TRAVIS SCOTT</h1>
+        <h1 className='ts'>NIKE X CORTEIZ</h1>
       </div>
       <div className='m-2 cursor-pointer'>
-        <img src="https://static.nike.com/a/images/w_1536,c_limit,f_auto/ee91c0fa-1da3-4817-994b-f3e027331b37/date-de-sortie-de-la-collection-de-v%C3%AAtements-nocta-golf.jpg" alt="" className='w-full h-full'/>
-        <h1 className='ama'>NIKE X A MA MANIERE </h1>
+        <img src="https://static.nike.com/a/images/w_1536,c_limit,f_auto/ee91c0fa-1da3-4817-994b-f3e027331b37/date-de-sortie-de-la-collection-de-v%C3%AAtements-nocta-golf.jpg" alt="" className='w-full h-full' style={{objectFit: 'cover'}}/>
+        <h1 className='ama'>NIKE X NOCTA </h1>
       </div>
       <div className='m-2 cursor-pointer'>
-        <img src="https://www.booska-p.com/wp-content/uploads/2021/11/Dr-7IumWkAEzUgT.jpg-large.jpg" alt="" className='w-full h-full' />
-        <h1 className='laylow'>NIKE x LAYLOW</h1>
+        <img src="https://www.booska-p.com/wp-content/uploads/2021/11/Dr-7IumWkAEzUgT.jpg-large.jpg" alt="" className='w-full h-full' style={{objectFit: 'cover'}} />
+        <h1 className='laylow'>NIKE x JORDAN</h1>
       </div>
     </div>
     </>

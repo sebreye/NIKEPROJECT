@@ -27,6 +27,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/011/119/994/original/218099_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 218099,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/011/119/994/original/218099_00.png.png",
@@ -98,6 +99,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/806/444/original/507844_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 507844,
         "keywords": [
           "black cement",
@@ -155,6 +157,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/008/654/900/original/52015_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 52015,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/008/654/900/original/52015_00.png.png",
@@ -227,6 +230,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/008/870/353/original/235806_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 235806,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/008/870/353/original/235806_00.png.png",
@@ -299,6 +303,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/010/223/048/original/13607_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 13607,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/010/223/048/original/13607_00.png.png",
@@ -373,6 +378,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/545/481/original/509480_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 509480,
         "keywords": [
           "Panda",
@@ -438,6 +444,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/012/910/690/original/554724_065.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 397517,
         "keywords": [
           "promoted1",
@@ -538,6 +545,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/806/485/original/461782_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 461782,
         "keywords": [
           "black cement",
@@ -609,6 +617,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/675/311/original/464372_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 464372,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/018/675/311/original/464372_00.png.png",
@@ -682,6 +691,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/042/384/original/500924_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 500924,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/042/384/original/500924_00.png.png",
@@ -745,6 +755,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/071/547/original/479524_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 479524,
         "keywords": [
           "promoted1"
@@ -824,6 +835,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/012/219/518/original/335047_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 335047,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/012/219/518/original/335047_00.png.png",
@@ -895,6 +907,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/474/777/original/TR_JSP_5_ICE.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 515029,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/474/777/original/TR_JSP_5_ICE.png.png",
@@ -969,6 +982,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/012/478/518/original/365514_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 365514,
         "keywords": [
           "travis scott"
@@ -1044,6 +1058,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/016/152/710/original/402491_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 402491,
         "keywords": [
           "ROY"
@@ -1143,6 +1158,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/783/111/original/488879_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 488879,
         "keywords": [
           "cactus jack"
@@ -1217,6 +1233,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/321/847/original/473391_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 473391,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/321/847/original/473391_00.png.png",
@@ -1290,6 +1307,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/552/901/original/404758_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 404758,
         "keywords": [
           "AJ1"
@@ -1357,6 +1375,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/249/059/original/485842_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 485842,
         "keywords": [
           "underRetail"
@@ -1424,6 +1443,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/357/907/original/478963_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 478963,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/357/907/original/478963_00.png.png",
@@ -1507,6 +1527,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/270/533/original/CD6578_507.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 494872,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/020/270/533/original/CD6578_507.png.png",
@@ -1583,6 +1604,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/009/559/594/original/144690_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 144690,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/009/559/594/original/144690_00.png.png",
@@ -1657,6 +1679,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/016/867/969/original/478648_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 478648,
         "keywords": [
           "Chicago Crystal",
@@ -1733,6 +1756,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/016/596/414/original/376931_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 376931,
         "keywords": [
           "Twelve"
@@ -1806,6 +1830,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/219/116/original/CD6846_002.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 461771,
         "keywords": [
           "underRetail"
@@ -1900,6 +1925,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/147/976/original/497870_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 497870,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/147/976/original/497870_00.png.png",
@@ -1972,6 +1998,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/095/762/original/411931_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 411931,
         "keywords": [
           "underRetail"
@@ -2045,6 +2072,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/317/617/original/SP_AJ1_LOW_BP.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 514029,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/317/617/original/SP_AJ1_LOW_BP.png.png",
@@ -2116,6 +2144,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/015/392/851/original/429772_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 429772,
         "keywords": [
           "underRetail"
@@ -2192,6 +2221,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/016/934/177/original/351614_00.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 351614,
         "keywords": [
           "Concord"
@@ -2266,6 +2296,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/310/667/original/459705_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 459705,
         "keywords": [
           "underRetail"
@@ -2334,6 +2365,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/008/654/831/original/31342_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 31342,
         "keywords": [
           "cement",
@@ -2406,6 +2438,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/015/567/335/original/CM100018M.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 468155,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/015/567/335/original/CM100018M.png.png",
@@ -2481,6 +2514,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/552/840/original/476518_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 476518,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/018/552/840/original/476518_00.png.png",
@@ -2548,6 +2582,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/015/298/767/original/77243_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 77243,
         "keywords": [
           "CDG"
@@ -2614,6 +2649,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/009/249/006/original/259509_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 259509,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/009/249/006/original/259509_00.png.png",
@@ -2683,6 +2719,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/840/270/original/491192_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 491192,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/020/840/270/original/491192_00.png.png",
@@ -2754,6 +2791,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/627/570/original/491891_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 491891,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/020/627/570/original/491891_00.png.png",
@@ -2831,6 +2869,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/545/549/original/489359_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 489359,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/545/549/original/489359_00.png.png",
@@ -2907,6 +2946,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/017/763/484/original/466439_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 466439,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/017/763/484/original/466439_00.png.png",
@@ -2983,6 +3023,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/012/750/761/original/351623_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 351623,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/012/750/761/original/351623_00.png.png",
@@ -3077,6 +3118,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/019/246/220/original/491897_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 491897,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/019/246/220/original/491897_00.png.png",
@@ -3146,6 +3188,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/545/501/original/507173_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 507173,
         "keywords": [
           "underRetail"
@@ -3223,6 +3266,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/249/043/original/494127_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 494127,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/020/249/043/original/494127_00.png.png",
@@ -3292,6 +3336,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/019/994/877/original/AJ7747_800.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 443766,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/019/994/877/original/AJ7747_800.png.png",
@@ -3367,6 +3412,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/019/804/999/original/488028_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 488028,
         "keywords": [
           "promoted1",
@@ -3449,6 +3495,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/017/794/455/original/394710_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 394710,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/017/794/455/original/394710_00.png.png",
@@ -3528,6 +3575,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/010/564/058/original/303229_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 303229,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/010/564/058/original/303229_00.png.png",
@@ -3604,6 +3652,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/013/832/092/original/306892_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 306892,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/013/832/092/original/306892_00.png.png",
@@ -3696,6 +3745,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/881/688/original/508101_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 508101,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/020/881/688/original/508101_00.png.png",
@@ -3768,6 +3818,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/019/367/662/original/484799_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 484799,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/019/367/662/original/484799_00.png.png",
@@ -3837,6 +3888,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/898/008/original/482531_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 482531,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/018/898/008/original/482531_00.png.png",
@@ -3916,6 +3968,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/010/222/352/original/240_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 240,
         "keywords": [
           "underRetail"
@@ -3987,6 +4040,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/562/245/original/480142_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 480142,
         "keywords": [
           "ASG",
@@ -4089,6 +4143,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/627/586/original/487222_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 487222,
         "keywords": [
           "underRetail"
@@ -4167,6 +4222,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/737/643/original/504006_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 504006,
         "keywords": [
           "underRetail"
@@ -4266,6 +4322,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/321/832/original/503571_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 503571,
         "keywords": [
           "CPFM"
@@ -4329,6 +4386,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/010/988/952/original/180155_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 180155,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/010/988/952/original/180155_00.png.png",
@@ -4398,6 +4456,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/010/634/133/original/303217_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 303217,
         "keywords": [
           "underRetail"
@@ -4474,6 +4533,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/011/051/956/original/335725_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 335725,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/011/051/956/original/335725_00.png.png",
@@ -4539,6 +4599,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/624/696/original/FU9013.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 505488,
         "keywords": [
           "350 V2",
@@ -4614,6 +4675,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/147/972/original/504187_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 504187,
         "keywords": [
           "700",
@@ -4694,6 +4756,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/008/707/328/original/152603_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 152603,
         "keywords": [
           "350",
@@ -4767,6 +4830,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/545/467/original/512006_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 512006,
         "keywords": [],
         "main_picture_url": "https://image.goat.com/750/attachments/product_template_pictures/images/021/545/467/original/512006_00.png.png",
@@ -4864,6 +4928,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/287/568/original/480136_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 480136,
         "keywords": [
           "700",
@@ -4961,6 +5026,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/021/357/863/original/508082_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 508082,
         "keywords": [
           "350",
@@ -5039,6 +5105,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/008/654/534/original/152982_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 152982,
         "keywords": [
           "350",
@@ -5118,6 +5185,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/019/367/689/original/479750_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 479750,
         "keywords": [
           "700",
@@ -5195,6 +5263,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/014/037/000/original/357808_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 357808,
         "keywords": [
           "350",
@@ -5277,6 +5346,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/014/507/851/original/195483_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 195483,
         "keywords": [
           "700",
@@ -5360,6 +5430,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/017/488/396/original/424152_00.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 424152,
         "keywords": [
           "350",
@@ -5437,6 +5508,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/666/882/original/486579_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 486579,
         "keywords": [
           "promoted1",
@@ -5537,6 +5609,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/019/471/948/original/487214_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 487214,
         "keywords": [
           "350",
@@ -5617,6 +5690,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/014/822/680/original/116662_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 116662,
         "keywords": [
           "350",
@@ -5697,6 +5771,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/018/951/283/original/492186_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 492186,
         "keywords": [
           "700",
@@ -5776,6 +5851,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/014/979/033/original/105568_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 105568,
         "keywords": [
           "350",
@@ -5848,6 +5924,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/020/249/956/original/EF3326.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 504982,
         "keywords": [
           "underRetail"
@@ -5927,6 +6004,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/012/598/505/original/348063_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 348063,
         "keywords": [
           "350",
@@ -6006,6 +6084,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/016/928/118/original/155573_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "shop",
         "id": 155573,
         "keywords": [
           "350",
@@ -6081,6 +6160,7 @@
         "grid_picture_url": "https://image.goat.com/375/attachments/product_template_pictures/images/011/292/904/original/298048_00.png.png",
         "has_picture": true,
         "has_stock": true,
+        "vente": "coming",
         "id": 298048,
         "keywords": [
           "promoted1",

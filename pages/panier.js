@@ -10,19 +10,24 @@ const panierNike = () => {
 
   return (
     <>
-    <h1 className='text-3xl font-bold text-center'>Votre Panier</h1>
+    <h1 className='text-3xl font-bold'>Votre Panier</h1>
         <div>
-            <ul>
+            <div>
                 {paniers.map((snk, index)  => (
-                    <li className='flex' key={index}>
+                    <div className='flex border m-2' key={index} style={{width
+                    : 650}}>
+                        <div style={{width: 400}} >
                         <img src={snk.original_picture_url}
-                        alt="" width={300} />
+                        alt=""  style={{backgroundColor: '#d6d3d3'}} />
+                        </div>
+                        <div style={{display: 'flex',flexDirection:'column',  justifyContent: 'space-between', padding: 10}}>
                         <p>{snk.name}</p>
                         <p>Taille: {snk.selectedSize}</p>
+                        </div>
                         <button onClick={() => supp(snk)}>supprimer</button>
-                    </li>
+                    </div>
                 ))}
-            </ul>
+            </div>
         </div>
     </>
   )
